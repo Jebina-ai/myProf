@@ -1,7 +1,14 @@
 /* Reset some default styles for consistency */
-body, h1, h2, ul, p {
+body, ul, p {
     margin: 0;
     padding: 0;
+}
+
+h1, h2
+{
+    margin: 10px;
+    padding: 10px;
+
 }
 
 /* Basic styling */
