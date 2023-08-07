@@ -7,11 +7,11 @@ body, h1, form {
 /* Basic styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    background-color: #A0D6B4;
 }
 
 header {
-    background-color: #333;
+    background-color: #03b867;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -39,12 +39,12 @@ input,
 textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #03b867;
     border-radius: 5px;
 }
 
 button {
-    background-color: #333;
+    background-color: #03b867;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -53,5 +53,5 @@ button {
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #A0D6B4;;
 }
