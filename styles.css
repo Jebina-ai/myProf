@@ -1,13 +1,7 @@
 /* Reset some default styles for consistency */
-body, ul, p {
+body, h1, h2, ul, p {
     margin: 0;
     padding: 0;
-}
-
-h1, h2
-{
-    margin-right: 10px;
-    padding: 0px;
 }
 
 /* Basic styling */
@@ -28,14 +22,14 @@ nav {
 }
 
 nav ul {
-    margin-right: 10px;
     list-style-type: none;
     padding: 10px;
 }
 
 nav li {
     display: inline;
-    margin-right: 50px;
+    margin-right: 10px;
+    padding-bottom: 20px;
 }
 
 nav a {
@@ -78,10 +72,6 @@ header
     margin: 0 auto;
     padding: 20px;
 }
-.container li 
-{
-    padding-bottom: 20px;
-}
 img 
 {
     max-width: 100%;
@@ -98,6 +88,7 @@ p
     line-height: 1.5;
     padding-bottom: 20px;
 }
+
 
 footer {
     background-color: #A0D6B4;
