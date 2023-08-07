@@ -71,6 +71,10 @@ header
     margin: 0 auto;
     padding: 20px;
 }
+.container li 
+{
+    margin-bottom: 10px;
+}
 img 
 {
     max-width: 100%;
